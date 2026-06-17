@@ -1,0 +1,23 @@
+[project]
+name = "rag-evaluation-new"
+version = "0.1.0"
+description = "RAG evaluation research: comparing Simple, LangChain, and Haystack RAG approaches using RAGAS metrics"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "haystack-ai",
+    "ragas-haystack",
+    "elasticsearch-haystack",
+    "langchain",
+    "langchain-openai",
+    "langchain-postgres",
+    "psycopg[binary]",
+    "psycopg2-binary",
+    "openai",
+    "python-dotenv",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "jupyter",
+    "ipykernel",
+]
