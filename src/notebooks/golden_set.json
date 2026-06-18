@@ -1,0 +1,73 @@
+[
+  {
+    "question": "What are the main types of activities carried out by Saudi Arabian Oil Company?",
+    "ground_truth": "Saudi Arabian Oil Company is involved in upstream activities such as prospecting, exploring, drilling, and extracting hydrocarbons, as well as downstream activities such as processing, refining, manufacturing, and marketing hydrocarbons.",
+    "source_chunks": [
+      2
+    ]
+  },
+  {
+    "question": "What accounting framework was used for Aramco\u2019s midyear financial report?",
+    "ground_truth": "The interim financial report was prepared under IAS 34 as endorsed in Saudi Arabia, along with standards and pronouncements issued by SOCPA. The interim results were unaudited and intended to be read with the 2020 annual consolidated financial statements.",
+    "source_chunks": [
+      2
+    ]
+  },
+  {
+    "question": "How does Aramco decide whether an arrangement should be treated as a lease?",
+    "ground_truth": "Aramco assesses the substance of the contract at its start. A contract is, or contains, a lease if it gives the right to control the use of an identified asset for a period of time in exchange for consideration.",
+    "source_chunks": [
+      4
+    ]
+  },
+  {
+    "question": "What is Aramco\u2019s planned direction for expanding its gas business?",
+    "ground_truth": "Aramco plans to expand its domestic gas business, including unconventional gas resources, and increase sales gas production capacity by more than 60% by 2030 compared with 2021 levels, subject to demand and including pre-FID projects not yet announced.",
+    "source_chunks": [
+      5
+    ]
+  },
+  {
+    "question": "How were the acquired SABIC goodwill and brand reviewed for possible write-downs?",
+    "ground_truth": "Goodwill was allocated to the Downstream operating segment, while the brand was tested using relevant cash-generating units. Recoverable amounts were based on value-in-use discounted cash flow models, and no impairment charge was identified.",
+    "source_chunks": [
+      6,
+      11
+    ]
+  },
+  {
+    "question": "What standard does Aramco follow when estimating its oil and gas reserves?",
+    "ground_truth": "Aramco\u2019s reserve estimates follow SPE-PRMS definitions and guidelines. The estimates are prepared through technical analyses, reviewed internally by successive management levels, and updated annually as new data is acquired and interpreted.",
+    "source_chunks": [
+      7
+    ]
+  },
+  {
+    "question": "What happened to Aramco\u2019s remaining payment obligation for the SABIC purchase during 2023?",
+    "ground_truth": "Aramco made repayments and prepayments in 2023 that fully settled the outstanding deferred consideration owed to PIF for the SABIC acquisition.",
+    "source_chunks": [
+      8
+    ]
+  },
+  {
+    "question": "What rights does Aramco receive under its main concession arrangement with the Saudi government?",
+    "ground_truth": "The concession gives Aramco exclusive rights to explore, develop, extract, recover, and produce hydrocarbons in the concession area, and to market and distribute hydrocarbons, petroleum products, and LPG in the Kingdom. It also provides non-exclusive rights to manufacture, refine, treat, market, sell, transport, and export production.",
+    "source_chunks": [
+      10
+    ]
+  },
+  {
+    "question": "How does Aramco encourage more local participation in its supply chain?",
+    "ground_truth": "Aramco uses its Supplier Code of Conduct to set ethical, safety, environmental, and compliance expectations, and its iktva program to increase use of in-Kingdom suppliers. The company aims for 70% of its Kingdom expenditures to be locally sourced over the next three years.",
+    "source_chunks": [
+      14
+    ]
+  },
+  {
+    "question": "How does Aramco define free cash flow, and how did it change in 2020?",
+    "ground_truth": "Aramco defines free cash flow as net cash provided by operating activities less capital expenditures. Free cash flow declined to SAR 184.267 billion in 2020 from SAR 293.647 billion in 2019, mainly due to lower earnings from weaker oil prices, lower crude volumes sold, and weaker refining and chemicals margins.",
+    "source_chunks": [
+      16
+    ]
+  }
+]
