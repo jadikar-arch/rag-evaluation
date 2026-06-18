@@ -142,17 +142,16 @@ Uses gpt-5.5 as the judge (separate from the gpt-4o-mini that generated answers)
 
 ## Understanding the Metrics
 
-After running the notebook, you'll get a summary table like:
+After running the notebook, here are the results from the latest run:
 
-```
-Approach              Faithfulness  Answer Relevancy  Context Precision  Context Recall  Average
-Haystack Hybrid           0.XYZ          0.XYZ             0.XYZ            0.XYZ       0.XYZ
-Simple RAG                0.XYZ          0.XYZ             0.XYZ            0.XYZ       0.XYZ
-Haystack Semantic         0.XYZ          0.XYZ             0.XYZ            0.XYZ       0.XYZ
-Haystack BM25             0.XYZ          0.XYZ             0.XYZ            0.XYZ       0.XYZ
-```
+| Approach | Faithfulness | Answer Relevancy | Context Precision | Context Recall | Average |
+|---|---:|---:|---:|---:|---:|
+| Haystack Semantic | 0.866884 | 0.815824 | 0.614963 | 0.7 | 0.749418 |
+| Simple RAG | 0.862591 | 0.813795 | 0.608901 | 0.7 | 0.746322 |
+| Haystack Hybrid | 0.759834 | 0.795360 | 0.534923 | 0.7 | 0.697529 |
+| Haystack BM25 | 0.771184 | 0.733620 | 0.460476 | 0.5 | 0.616320 |
 
-(Actual numbers appear after you run the notebook.)
+(Numbers come from the notebook `src/notebooks/rag_evaluation_clean_text.ipynb`.)
 
 ### What Each Score Means
 
