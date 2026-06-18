@@ -20,4 +20,5 @@ dependencies = [
     "seaborn",
     "jupyter",
     "ipykernel",
+    "langchain-google-vertexai>=3.2.4",
 ]
