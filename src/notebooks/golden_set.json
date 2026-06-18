@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What accounting rules did Aramco say it followed for its mid-year interim financial report?",
+    "ground_truth": "The report was prepared under IAS 34 as endorsed in Saudi Arabia, together with standards and pronouncements issued by SOCPA. It was also intended to be read alongside the 2020 annual consolidated financial statements prepared under IFRS endorsed in the Kingdom.",
+    "source_chunks": [
+      2
+    ]
+  },
+  {
+    "question": "How does Aramco treat contracts that give it control over an asset for a period of time?",
+    "ground_truth": "Aramco treats such contracts as leases when they convey control of an identified asset in exchange for consideration. It recognizes right-of-use assets and lease liabilities at commencement, except for short-term and low-value leases, which are expensed over the lease term.",
+    "source_chunks": [
+      4
+    ]
+  },
+  {
+    "question": "What direction has Aramco set for its gas business inside Saudi Arabia and internationally?",
+    "ground_truth": "Domestically, Aramco plans to expand gas operations, develop unconventional resources, add infrastructure, and raise sales gas production capacity by more than 60% by 2030 compared with 2021. Internationally, it plans to build an integrated global LNG business and pursue investment opportunities.",
+    "source_chunks": [
+      5
+    ]
+  },
+  {
+    "question": "Why were the acquired intangible values from the large chemicals transaction highlighted by the auditor?",
+    "ground_truth": "The auditor treated the recoverability of goodwill and brand from the SABIC acquisition as a key audit matter because the assets had large carrying values and required significant judgment in value-in-use models. The assessment used 10-year cash flow projections, terminal values, commodity assumptions, margins, and discount rates.",
+    "source_chunks": [
+      6
+    ]
+  },
+  {
+    "question": "How does Aramco prepare and review its reserve estimates?",
+    "ground_truth": "Aramco\u2019s reserve estimates follow SPE-PRMS definitions and guidelines. Upstream employees perform technical analyses that are reviewed through higher management levels, and the estimates are updated annually as new data is acquired and interpreted.",
+    "source_chunks": [
+      7
+    ]
+  },
+  {
+    "question": "How did Aramco finish paying the deferred amount owed for the chemicals stake bought from the public investment fund?",
+    "ground_truth": "In 2023, Aramco made three repayments or prepayments to PIF: SAR 59.0 billion, SAR 41.3 billion, and SAR 16.7 billion. These payments fully settled the deferred consideration for the SABIC acquisition.",
+    "source_chunks": [
+      8
+    ]
+  },
+  {
+    "question": "What main privileges and time structure are attached to Aramco\u2019s state-granted operating rights?",
+    "ground_truth": "The Concession Agreement gives Aramco exclusive rights to explore, develop, recover, produce, market, and distribute hydrocarbons and LPG in Saudi Arabia, along with non-exclusive rights for refining and exporting. Its initial term is 40 years, extendable by 20 years, with a possible additional 40-year extension by agreement.",
+    "source_chunks": [
+      10
+    ]
+  },
+  {
+    "question": "How did Aramco describe its shareholder payout during the early pandemic downturn?",
+    "ground_truth": "Despite weaker demand and lower oil prices, Aramco said it maintained a second-quarter dividend of $18.75 billion to be paid in the third quarter. The CEO attributed the company\u2019s resilience to low production costs, scale, and financial and operational strength.",
+    "source_chunks": [
+      12
+    ]
+  },
+  {
+    "question": "How does Aramco try to make its purchasing practices ethical and locally beneficial?",
+    "ground_truth": "Aramco uses a Supplier Code of Conduct covering environmental, health and safety, fair trade, ethical sourcing, conflicts of interest, anti-bribery, and compliance standards. It also uses the iktva localization program and aims for 70% of its Kingdom expenditures to be locally sourced over the next three years.",
+    "source_chunks": [
+      14
+    ]
+  },
+  {
+    "question": "What risk does Aramco identify around compensation for regulated domestic sales?",
+    "ground_truth": "Aramco receives compensation mechanisms for revenue forgone when selling certain products and gas domestically at regulated or domestic prices. The company warns that these mechanisms could be revoked or amended on less favorable terms, which could materially affect earnings, cash flow, financial position, and results.",
+    "source_chunks": [
+      15
+    ]
+  }
+]
